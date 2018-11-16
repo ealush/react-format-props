@@ -1,6 +1,6 @@
 {
   "name": "react-format-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny HOC for formatting props in React",
   "main": "index.js",
   "scripts": {

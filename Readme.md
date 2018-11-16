@@ -8,6 +8,11 @@ import React from 'react';
 export default (mapper = (props) => props) => (Comp) => (props) => <Comp {...mapper(props)}/>;
 ```
 
+## Installation
+```
+npm i react-format-props
+```
+
 ## Why?
 I needed it.
 
