@@ -1,0 +1,33 @@
+{
+  "name": "react-format-props",
+  "version": "1.0.0",
+  "description": "Tiny HOC for formatting props in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "props",
+    "format",
+    "mapPropsToProps"
+  ],
+  "author": "ealush",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.4.2",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "jest": "^23.6.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-test-renderer": "^16.6.3"
+  },
+  "peerDependencies": {
+    "react": "^16.6.3"
+  }
+}
